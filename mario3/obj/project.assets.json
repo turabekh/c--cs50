@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\users\\turabekh\\desktop\\c#cs50\\mario\\mario.csproj",
-      "projectName": "mario",
-      "projectPath": "C:\\users\\turabekh\\desktop\\c#cs50\\mario\\mario.csproj",
+      "projectUniqueName": "C:\\users\\turabekh\\desktop\\c#cs50\\mario3\\mario3.csproj",
+      "projectName": "mario3",
+      "projectPath": "C:\\users\\turabekh\\desktop\\c#cs50\\mario3\\mario3.csproj",
       "packagesPath": "C:\\Users\\turabekh\\.nuget\\packages\\",
-      "outputPath": "C:\\users\\turabekh\\desktop\\c#cs50\\mario\\obj\\",
+      "outputPath": "C:\\users\\turabekh\\desktop\\c#cs50\\mario3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

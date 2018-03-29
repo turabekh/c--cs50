@@ -27,11 +27,11 @@ namespace mario
                 continue;
             }
             }
-            int track = height;
+            int track = height - 1;
             // draw the half pyramid based on user input
             for (int i = 2; i <= (height + 1); i++)
             {
-                string space = new String(' ', (track -1));
+                string space = new String(' ', track);
                 string hash = new String('#', i);
                 Console.WriteLine(space + hash);
                 track -= 1;
