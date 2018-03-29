@@ -1,0 +1,10 @@
+C:\Users\turabekh\Desktop\c#cs50\credit\bin\Debug\netcoreapp2.0\credit.deps.json
+C:\Users\turabekh\Desktop\c#cs50\credit\bin\Debug\netcoreapp2.0\credit.runtimeconfig.json
+C:\Users\turabekh\Desktop\c#cs50\credit\bin\Debug\netcoreapp2.0\credit.runtimeconfig.dev.json
+C:\Users\turabekh\Desktop\c#cs50\credit\bin\Debug\netcoreapp2.0\credit.dll
+C:\Users\turabekh\Desktop\c#cs50\credit\bin\Debug\netcoreapp2.0\credit.pdb
+C:\Users\turabekh\Desktop\c#cs50\credit\obj\Debug\netcoreapp2.0\credit.csproj.CoreCompileInputs.cache
+C:\Users\turabekh\Desktop\c#cs50\credit\obj\Debug\netcoreapp2.0\credit.AssemblyInfoInputs.cache
+C:\Users\turabekh\Desktop\c#cs50\credit\obj\Debug\netcoreapp2.0\credit.AssemblyInfo.cs
+C:\Users\turabekh\Desktop\c#cs50\credit\obj\Debug\netcoreapp2.0\credit.dll
+C:\Users\turabekh\Desktop\c#cs50\credit\obj\Debug\netcoreapp2.0\credit.pdb

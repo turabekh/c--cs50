@@ -1,0 +1,10 @@
+C:\Users\turabekh\Desktop\c#cs50\mario2\obj\Debug\netcoreapp2.0\mario2.csproj.CoreCompileInputs.cache
+C:\Users\turabekh\Desktop\c#cs50\mario2\obj\Debug\netcoreapp2.0\mario2.AssemblyInfoInputs.cache
+C:\Users\turabekh\Desktop\c#cs50\mario2\obj\Debug\netcoreapp2.0\mario2.AssemblyInfo.cs
+C:\Users\turabekh\Desktop\c#cs50\mario2\bin\Debug\netcoreapp2.0\mario2.deps.json
+C:\Users\turabekh\Desktop\c#cs50\mario2\bin\Debug\netcoreapp2.0\mario2.runtimeconfig.json
+C:\Users\turabekh\Desktop\c#cs50\mario2\bin\Debug\netcoreapp2.0\mario2.runtimeconfig.dev.json
+C:\Users\turabekh\Desktop\c#cs50\mario2\bin\Debug\netcoreapp2.0\mario2.dll
+C:\Users\turabekh\Desktop\c#cs50\mario2\bin\Debug\netcoreapp2.0\mario2.pdb
+C:\Users\turabekh\Desktop\c#cs50\mario2\obj\Debug\netcoreapp2.0\mario2.dll
+C:\Users\turabekh\Desktop\c#cs50\mario2\obj\Debug\netcoreapp2.0\mario2.pdb

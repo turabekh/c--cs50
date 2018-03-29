@@ -1,0 +1,10 @@
+C:\Users\turabekh\Desktop\c#cs50\cash\bin\Debug\netcoreapp2.0\cash.deps.json
+C:\Users\turabekh\Desktop\c#cs50\cash\bin\Debug\netcoreapp2.0\cash.runtimeconfig.json
+C:\Users\turabekh\Desktop\c#cs50\cash\bin\Debug\netcoreapp2.0\cash.runtimeconfig.dev.json
+C:\Users\turabekh\Desktop\c#cs50\cash\bin\Debug\netcoreapp2.0\cash.dll
+C:\Users\turabekh\Desktop\c#cs50\cash\bin\Debug\netcoreapp2.0\cash.pdb
+C:\Users\turabekh\Desktop\c#cs50\cash\obj\Debug\netcoreapp2.0\cash.csproj.CoreCompileInputs.cache
+C:\Users\turabekh\Desktop\c#cs50\cash\obj\Debug\netcoreapp2.0\cash.AssemblyInfoInputs.cache
+C:\Users\turabekh\Desktop\c#cs50\cash\obj\Debug\netcoreapp2.0\cash.AssemblyInfo.cs
+C:\Users\turabekh\Desktop\c#cs50\cash\obj\Debug\netcoreapp2.0\cash.dll
+C:\Users\turabekh\Desktop\c#cs50\cash\obj\Debug\netcoreapp2.0\cash.pdb
